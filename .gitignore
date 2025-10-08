@@ -1,0 +1,16 @@
+الاشيالء الموجوده داخل هذا الملف ما بدي ياها ترتفع على git  لما ارفع المشروع 
+node-modules/
+config.env
+
+#  // .custom((categoryId) =>
+#   //   Category.findById(categoryId).then((category) => {
+#   //     if (!category) {
+#   //       return Promise.reject(
+#   //         new Error(`No category for this id: ${categoryId}`)
+#   //       );
+#   //     }
+#   //   })
+#   // )
+# /////////////////////////////////
+# 
+
