@@ -22,3 +22,4 @@ const brandSchema = new mongoose.Schema(
 
 //2-create model
 module.exports = mongoose.model("Brand", brandSchema);
+// demo
